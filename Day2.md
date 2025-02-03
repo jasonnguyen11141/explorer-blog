@@ -1,0 +1,14 @@
+---
+layout: layout.liquid
+title: Day 2
+---
+# Day 2
+The next morning—or what passes for morning in the ship’s never-ending twilight—begins with a flicker of unease. The alarms are quieter today, almost imperceptible, but they’re there. Something's off, just a slight irregularity in the system diagnostics. The astronaut rubs their eyes, barely awake, and punches in the troubleshooting protocol. A flickering light on the control panel catches their attention. The ship’s oxygen supply monitor, usually a steady green, now reads a faint yellow. It’s nothing catastrophic yet, but it’s a warning—a reminder that this vessel is both their home and their lifeline. Their heart rate picks up, though the panic doesn’t quite set in. There’s no room for panic. They move methodically, assessing, recalibrating, rerouting airflow through different vents. 
+
+The sense of isolation creeps in again, this time with a bit more urgency. They can’t call for backup. There’s no one else out here. If the systems fail, if the ship starts to break down—there’s only one person who can fix it. They work faster now, a controlled urgency propelling them through the routine, as if the ship's very walls are closing in around them. In the back of their mind, the number of Earth days since launch ticks over, though they know it's irrelevant. Time has become as fluid as the stars outside, with only the systems on the ship to mark its passing. 
+
+Once the issue is resolved, the feeling doesn’t quite lift. The quiet still lingers, a little more oppressive now, almost like the ship itself is aware of its own fragility. The astronaut returns to the observation deck for a few moments, just to breathe, to remind themselves of the vast, unreachable distance between them and everything familiar. The stars blink back, distant, indifferent. They press their palm against the cold glass, tracing the faint outline of a distant nebula. Another light-year closer to the unknown. 
+
+Later in the day, the schedule resumes. Work, maintenance, system checks—each task an anchor to something solid. But in the corners of their mind, the question gnaws at them: what happens when they can’t keep everything running? The thought hangs there like an unspoken truth, but they force it down. One problem at a time. That’s all they can do. After all, in space, no one can hear you break. 
+
+By the time artificial night falls again, they’re back in their quarters, the ship’s constant hum a lullaby in the background. The weight of the day lingers, but so does the quiet reassurance that the mission goes on, and so must they. Tomorrow, there will be new systems to check, new problems to solve. But for now, the stars continue to flicker just outside, constant and eternal, as if nothing about this endless journey has ever changed.</p>

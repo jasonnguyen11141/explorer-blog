@@ -38,6 +38,17 @@ nav ul li a {
 }
 
 
-.story{
+
+.blogs{
+    margin: 40px auto 40px auto;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+.blogs a{
+    text-decoration: ;
+    color: #EAE8FF;
+}
+p{
     font-size: larger;
 }
